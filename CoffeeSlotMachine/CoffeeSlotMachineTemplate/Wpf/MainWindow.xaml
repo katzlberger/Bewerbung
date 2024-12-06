@@ -1,0 +1,30 @@
+﻿<Window x:Class="Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf"
+        mc:Ignorable="d"
+        Title="Coffee Vending Machine" Height="600" Width="400">
+    <StackPanel Margin="10">
+        <TextBlock Text="Münzwert auswählen:" />
+        <ComboBox Name="CoinSelection" Width="100"/>
+
+        <TextBlock Text="Aktueller Einwurf:" Margin="0,10,0,0"/>
+        <TextBlock Name="CurrentMoneyDisplay" FontWeight="Bold" FontSize="14"/>
+
+        <Button Content="Münze Einwerfen" Click="InsertCoin_Click" />
+
+        <TextBlock Text="Produkt auswählen:" Margin="0,10,0,0" />
+        <ComboBox Name="ProductSelection" Width="200"/>
+        <Button Content="Produkt Kaufen" Click="SelectProduct_Click" />
+
+        <TextBlock Text="Depotstatus (Münzen je Wert):" Margin="0,10,0,0"/>
+        <ListBox Name="CoinDepotDisplay" />
+
+        <TextBlock Text="Bestellung:" Margin="0,10,0,0" />
+        <Button Content="Bestellung Abbrechen" Click="CancelOrder_Click" />
+
+        <TextBlock Name="Output" Margin="0,20,0,0" TextWrapping="Wrap"/>
+    </StackPanel>
+</Window>

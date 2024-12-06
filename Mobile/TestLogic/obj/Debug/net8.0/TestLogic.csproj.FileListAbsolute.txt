@@ -1,0 +1,342 @@
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\CoverletSourceRootsMapping_TestLogic
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\testhost.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\testhost.exe
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\TestLogic.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\TestLogic.runtimeconfig.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\TestLogic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\TestLogic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.csproj.AssemblyReference.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.csproj.Up2Date
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\refint\TestLogic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\TestLogic.genruntimeconfig.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\TestLogic\obj\Debug\net8.0\ref\TestLogic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\CoverletSourceRootsMapping_TestLogic
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\testhost.exe
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\testhost.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.csproj.AssemblyReference.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.csproj.Up2Date
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\refint\TestLogic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\TestLogic.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\TestLogic.runtimeconfig.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\TestLogic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\bin\Debug\net8.0\TestLogic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.genruntimeconfig.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\TestLogic\obj\Debug\net8.0\ref\TestLogic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\CoverletSourceRootsMapping_TestLogic
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\testhost.exe
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\testhost.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\TestLogic.deps.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\TestLogic.runtimeconfig.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\TestLogic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\TestLogic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Logic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.csproj.AssemblyReference.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.AssemblyInfoInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.AssemblyInfo.cs
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.csproj.CoreCompileInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.csproj.Up2Date
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\refint\TestLogic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\TestLogic.genruntimeconfig.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\TestLogic\obj\Debug\net8.0\ref\TestLogic.dll

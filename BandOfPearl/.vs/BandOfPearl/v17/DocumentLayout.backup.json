@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77824DED-9CCA-46BD-9747-2DB6A69277BB}|BandOfPearl\\BandOfPearl.Logic.csproj|c:\\desktop\\htl leonding\\oopr\\uebungen\\10_listenii\\bandofpearltemplate\\bandofpearl\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77824DED-9CCA-46BD-9747-2DB6A69277BB}|BandOfPearl\\BandOfPearl.Logic.csproj|solutionrelative:bandofpearl\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77824DED-9CCA-46BD-9747-2DB6A69277BB}|BandOfPearl\\BandOfPearl.Logic.csproj|c:\\desktop\\htl leonding\\oopr\\uebungen\\10_listenii\\bandofpearltemplate\\bandofpearl\\pearl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77824DED-9CCA-46BD-9747-2DB6A69277BB}|BandOfPearl\\BandOfPearl.Logic.csproj|solutionrelative:bandofpearl\\pearl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D173CDD4-A4CE-4CF3-BD49-A181D3B983FD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\desktop\\htl leonding\\oopr\\uebungen\\10_listenii\\bandofpearltemplate\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D173CDD4-A4CE-4CF3-BD49-A181D3B983FD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77824DED-9CCA-46BD-9747-2DB6A69277BB}|BandOfPearl\\BandOfPearl.Logic.csproj|c:\\desktop\\htl leonding\\oopr\\uebungen\\10_listenii\\bandofpearltemplate\\bandofpearl\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77824DED-9CCA-46BD-9747-2DB6A69277BB}|BandOfPearl\\BandOfPearl.Logic.csproj|solutionrelative:bandofpearl\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:49:48.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pearl.cs",
+              "DocumentMoniker": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\BandOfPearl\\Pearl.cs",
+              "RelativeDocumentMoniker": "BandOfPearl\\Pearl.cs",
+              "ToolTip": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\BandOfPearl\\Pearl.cs",
+              "RelativeToolTip": "BandOfPearl\\Pearl.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:00:55.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\BandOfPearl\\Node.cs",
+              "RelativeDocumentMoniker": "BandOfPearl\\Node.cs",
+              "ToolTip": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\BandOfPearl\\Node.cs",
+              "RelativeToolTip": "BandOfPearl\\Node.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:00:49.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Band.cs",
+              "DocumentMoniker": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\BandOfPearl\\Band.cs",
+              "RelativeDocumentMoniker": "BandOfPearl\\Band.cs",
+              "ToolTip": "C:\\Desktop\\HTL Leonding\\OOPR\\Uebungen\\10_ListenII\\BandOfPearlTemplate\\BandOfPearl\\Band.cs",
+              "RelativeToolTip": "BandOfPearl\\Band.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwG0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:00:24.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

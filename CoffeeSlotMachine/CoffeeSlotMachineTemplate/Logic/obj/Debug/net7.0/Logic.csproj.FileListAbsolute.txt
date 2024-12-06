@@ -1,0 +1,11 @@
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\bin\Debug\net7.0\Logic.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\bin\Debug\net7.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\bin\Debug\net7.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\obj\Debug\net7.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\obj\Debug\net7.0\Logic.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\obj\Debug\net7.0\Logic.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\obj\Debug\net7.0\Logic.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\obj\Debug\net7.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\obj\Debug\net7.0\refint\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\obj\Debug\net7.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\05CoffeeSlotMachine\CoffeeSlotMachineTemplate\Logic\obj\Debug\net7.0\ref\Logic.dll

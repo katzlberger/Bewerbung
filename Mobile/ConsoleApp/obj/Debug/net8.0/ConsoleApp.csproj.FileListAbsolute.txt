@@ -1,0 +1,54 @@
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\bin\Debug\net8.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\bin\Debug\net8.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\bin\Debug\net8.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\bin\Debug\net8.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\bin\Debug\net8.0\Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\bin\Debug\net8.0\Logic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

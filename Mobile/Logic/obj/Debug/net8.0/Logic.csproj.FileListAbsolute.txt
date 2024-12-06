@@ -1,0 +1,33 @@
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\bin\Debug\net8.0\Logic.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\bin\Debug\net8.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\bin\Debug\net8.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\obj\Debug\net8.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\obj\Debug\net8.0\refint\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\obj\Debug\net8.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\Logic\obj\Debug\net8.0\ref\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\bin\Debug\net8.0\Logic.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\bin\Debug\net8.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\bin\Debug\net8.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\obj\Debug\net8.0\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\obj\Debug\net8.0\refint\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\obj\Debug\net8.0\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\Logic\obj\Debug\net8.0\ref\Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\bin\Debug\net8.0\Logic.deps.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\bin\Debug\net8.0\Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\bin\Debug\net8.0\Logic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\obj\Debug\net8.0\Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\obj\Debug\net8.0\refint\Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\obj\Debug\net8.0\Logic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\Logic\obj\Debug\net8.0\ref\Logic.dll

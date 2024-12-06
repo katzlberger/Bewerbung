@@ -1,0 +1,33 @@
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\obj\Debug\net8.0\refint\BandOfPearl.Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl\obj\Debug\net8.0\ref\BandOfPearl.Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\refint\BandOfPearl.Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\ref\BandOfPearl.Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.deps.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\bin\Debug\net8.0\BandOfPearl.Logic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.AssemblyInfoInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.AssemblyInfo.cs
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.csproj.CoreCompileInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\refint\BandOfPearl.Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\BandOfPearl.Logic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl\obj\Debug\net8.0\ref\BandOfPearl.Logic.dll

@@ -1,0 +1,206 @@
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Test.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Test.runtimeconfig.json
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Test.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Test.pdb
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\testhost.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.csproj.AssemblyReference.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPe.FD8B1B81.Up2Date
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\refint\BandOfPearl.Test.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.pdb
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.genruntimeconfig.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearl\BandOfPearl.Test\obj\Debug\net8.0\ref\BandOfPearl.Test.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.csproj.AssemblyReference.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\refint\BandOfPearl.Test.dll
+C:\gdrive\HTL\PR_II\Uebungen\09BandOfPearls\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Test.deps.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Test.runtimeconfig.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Test.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Test.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\testhost.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\bin\Debug\net8.0\BandOfPearl.Logic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.csproj.AssemblyReference.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.AssemblyInfoInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.AssemblyInfo.cs
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.csproj.CoreCompileInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPe.FD8B1B81.Up2Date
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\refint\BandOfPearl.Test.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\BandOfPearl.Test.genruntimeconfig.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\10_ListenII\BandOfPearlTemplate\BandOfPearl.Test\obj\Debug\net8.0\ref\BandOfPearl.Test.dll

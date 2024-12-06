@@ -1,0 +1,54 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="Mobile Simulator" Height="400" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Left Phone -->
+        <Border Grid.Column="0" Margin="10" Padding="10" BorderBrush="Black" BorderThickness="2" CornerRadius="5">
+            <StackPanel>
+                <TextBlock Text="Telefon Links" FontWeight="Bold" FontSize="16" TextAlignment="Center" />
+                <TextBlock Text="{Binding LeftPhoneNumber}" />
+                <TextBlock Text="Aktive Sekunden:" />
+                <TextBlock x:Name="LeftSecondsActive" Text="0" />
+                <TextBlock Text="Passive Sekunden:" />
+                <TextBlock x:Name="LeftSecondsPassive" Text="0" />
+                <TextBlock Text="Kosten (Cent):" />
+                <TextBlock x:Name="LeftCentsToPay" Text="0" />
+                <Button x:Name="StartCallToRightButton" Content="Anruf an Rechts starten" Click="StartCallToRight_Click" Margin="5" />
+                <Button x:Name="EndCallButton" Content="Anruf beenden" Click="EndCall_Click" Margin="5" IsEnabled="False"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Right Phone -->
+        <Border Grid.Column="1" Margin="10" Padding="10" BorderBrush="Black" BorderThickness="2" CornerRadius="5">
+            <StackPanel>
+                <TextBlock Text="Telefon Rechts" FontWeight="Bold" FontSize="16" TextAlignment="Center" />
+                <TextBlock Text="{Binding RightPhoneNumber}" />
+                <TextBlock Text="Aktive Sekunden:" />
+                <TextBlock x:Name="RightSecondsActive" Text="0" />
+                <TextBlock Text="Passive Sekunden:" />
+                <TextBlock x:Name="RightSecondsPassive" Text="0" />
+                <TextBlock Text="Kosten (Cent):" />
+                <TextBlock x:Name="RightCentsToPay" Text="0" />
+                <Button x:Name="StartCallToLeftButton" Content="Anruf an Links starten" Click="StartCallToLeft_Click" Margin="5" />
+                <Button x:Name="EndCallButtonRight" Content="Anruf beenden" Click="EndCall_Click" Margin="5" IsEnabled="False"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Call Status -->
+        <TextBlock Grid.Row="1" x:Name="CallStatus" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="14" FontWeight="Bold" Foreground="Red"/>
+    </Grid>
+</Window>

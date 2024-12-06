@@ -1,0 +1,72 @@
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\bin\Debug\net8.0-windows\WpfApp.exe
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\bin\Debug\net8.0-windows\WpfApp.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\bin\Debug\net8.0-windows\WpfApp.runtimeconfig.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\bin\Debug\net8.0-windows\WpfApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\bin\Debug\net8.0-windows\WpfApp.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\bin\Debug\net8.0-windows\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\bin\Debug\net8.0-windows\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\App.g.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.lref
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.g.resources
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.Up2Date
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\refint\WpfApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\WpfApp.genruntimeconfig.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\Mobile\WpfApp\obj\Debug\net8.0-windows\ref\WpfApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\App.g.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.lref
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.g.resources
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\refint\WpfApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.exe
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.deps.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.runtimeconfig.json
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\Logic.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\Logic.pdb
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfo.cs
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.Up2Date
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.dll
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.genruntimeconfig.cache
+C:\gdrive\HTL\PR_II\Uebungen\07Mobile\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\ref\WpfApp.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.exe
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.deps.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.runtimeconfig.json
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\WpfApp.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\Logic.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\bin\Debug\net8.0-windows\Logic.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.lref
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.g.resources
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfo.cs
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.Up2Date
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\refint\WpfApp.dll
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.pdb
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\WpfApp.genruntimeconfig.cache
+C:\Desktop\HTL Leonding\OOPR\Uebungen\08_ClassConections\MobileTemplate\WpfApp\obj\Debug\net8.0-windows\ref\WpfApp.dll
